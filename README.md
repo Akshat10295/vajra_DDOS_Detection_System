@@ -1,4 +1,4 @@
-VAJRA
+VAJRA: It is a DDOS Detection system, which detects DDOS attacks and mitigates them by updating the firewall. It works using a ML model which trained using Random Forest with multiple datasets. It collects the data and stores tem in a file so the user can use the data to retrain the model.   
 
 
 DETECTOR:(Windows)
